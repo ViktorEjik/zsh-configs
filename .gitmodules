@@ -1,0 +1,6 @@
+[submodule "/home/viktor/configs/zsh-configs/plugins/zsh-autosuggestions"]
+	path = /home/viktor/configs/zsh-configs/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions.git
+[submodule "/home/viktor/configs/zsh-configs/plugins/zsh-syntax-highlighting"]
+	path = /home/viktor/configs/zsh-configs/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
